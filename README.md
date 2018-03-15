@@ -1,6 +1,7 @@
 # OttoDIY_XYZ_Examples
 Example Scratch programming for Otto advanced Version Robot 
 ## Calibration program
+See https://github.com/stembotvn/OttoDIY_mBlock_Extension/wiki/Lesson-2:-Otto-calibration
 - Install mBlock OttoDIY V3.4
 - Load project name "Calibration_mBlock_Program.sb2" in folder "Calibration"
 - Go to Arduino Mode by: Edit/Arduino Mode
